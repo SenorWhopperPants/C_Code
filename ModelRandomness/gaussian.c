@@ -1,5 +1,5 @@
 /***
- *  @brief  gaussian.c runs the simulation for dice throws -- Gaussian
+ * @brief  gaussian.c runs the simulation for dice throws -- Gaussian
  * 
  * @author  Josh Bussis
  * @date    2020/12/3

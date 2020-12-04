@@ -1,5 +1,5 @@
 /***
- *  @brief  poisson.c runs the simulation for dice throws -- Poisson
+ * @brief  poisson.c runs the simulation for dice throws -- Poisson
  * 
  * @author  Josh Bussis
  * @date    2020/12/3

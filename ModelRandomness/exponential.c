@@ -1,5 +1,5 @@
 /***
- *  @brief  exponential.c runs the simulation for dice throws -- Exponential
+ * @brief  exponential.c runs the simulation for dice throws -- Exponential
  * 
  * @author  Josh Bussis
  * @date    2020/12/3
